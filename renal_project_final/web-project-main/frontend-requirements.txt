@@ -1,0 +1,19 @@
+# This file lists the main frontend dependencies
+# Install using: npm install
+
+# Core Framework
+next>=13.0.0
+react>=18.0.0
+react-dom>=18.0.0
+
+# TypeScript
+typescript>=4.9.0
+@types/node>=18.0.0
+@types/react>=18.0.0
+@types/react-dom>=18.0.0
+
+# Development Tools
+eslint>=8.0.0
+eslint-config-next>=13.0.0
+
+# Note: Run 'npm install' to install all dependencies from package.json 
